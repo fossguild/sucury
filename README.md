@@ -1,11 +1,17 @@
+ Copyright 2024 The Authors of Coral
 
- README
- ==============================
+ Distributed under GNU General Public License vr. 3 or later.
 
- Sucury is a very simple version of the classical 80s' arcade snake game
- written in Python, developed as a programming exercise by the students
- of the graduate course Open Source Systems of 2023, at ICMC, University
- of Sao Paulo.
+Sucury - Snake game challenge
+==============================
+
+Coral is an implementation exercise based on KobraPy open-source coding exercise. 
+
+The software is a simple version of the classic 1980s arcade snake game, written in Python 
+and implemented as an extension of the original KobraPy codebase. The project was developed 
+in 2023 by Computer Science students taking the Open Source Systems undergraduate course 
+at ICMC, University of São Paulo.
+
 
  Getting started
  ------------------------------
